@@ -1,4 +1,4 @@
-# AkiyaAgingCheck
+# AkiyaAgeChecker
 
 空き家の老朽化状態を画像から分析するツール
 
